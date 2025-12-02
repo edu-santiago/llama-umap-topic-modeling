@@ -283,16 +283,6 @@ Subsequently, the same model and optimization process was applied exclusively to
 
 6. **Positive review analysis**: Apply the same methodology to positive reviews to identify what players appreciate most
 
-## References
-
-This project is based on research presented in:
-> **Topic Modelling Applied to Negative Reviews of Elden Ring**
-> 
-> Eduardo N. S. Ramos  
-> Departamento de Engenharia Elétrica, PUC-RJ
-
-For the full academic paper, see `Template_SBC/template-latex/sbc-template.tex`
-
 ## Author
 
 **Eduardo N. S. Ramos**  
@@ -312,4 +302,5 @@ This project is for academic/research purposes.
 ---
 
 **Note**: The implementation of Topic Modeling utilizing LLaMA coupled with clustering algorithms yielded effective results in identifying common thematic patterns among *Elden Ring* players' feedback. The initial clustering analysis revealed that a substantial portion of players encountered legitimate concerns regarding the game's difficulty and scope, alongside technical issues. The methodology demonstrates that contemporary Large Language Model architectures can generate semantically meaningful embeddings that effectively cluster similar issues, enabling the extraction of actionable insights from negative reviews.
+
 
